@@ -18,6 +18,9 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.356);
     font:  normal 19pt arial;
 }
+input {
+    width: 100px;
+}
 #inp1 {
     padding: 10px;
     text-align: center;
