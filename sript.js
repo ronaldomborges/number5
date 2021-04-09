@@ -15,7 +15,7 @@ function contar() {
                window.alert(`Passo inválido! Considerando PASSO 1`)
                p = 1
            }  if (i <= f) {
-                 let c = 1
+                 let c = i
                  do {
                      res.style.color = "white"
                      res.innerHTML += ` ${c} \u{1f449}`
