@@ -29,5 +29,6 @@ function contar() {
                     c -= p
                 }  while (c >= f)
               }
+              res.innerHTML += `\u{1F3C1}`
        }
 }
