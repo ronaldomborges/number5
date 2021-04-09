@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(104, 29, 202);
+    font:  normal 17pt arial;
+}
+p {
+    color: white;
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    background-image: url(imagens/fundo.jpg) ;
+    border-radius: 10px;
+    padding: 15px;
+    width: 60%;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.356);
+    font:  normal 19pt arial;
+}
+#inp1 {
+    padding: 10px;
+    text-align: center;
+    margin-left: 80px;
+    width: 100px;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+   
+}
